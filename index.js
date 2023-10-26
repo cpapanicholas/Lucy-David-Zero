@@ -1,3 +1,7 @@
+const CLI = require("./lib/cli");
+
+new CLI().run();
+
 const fs = require('fs');
 const inquirer = require('inquirer');
 const SVG = require('../svg.js'); // Use the 'svg.js' library
