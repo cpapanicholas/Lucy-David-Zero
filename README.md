@@ -2,6 +2,7 @@
 
   ## Description
   This node js application will make a simple logo using svg, Jest, and Inquirer.  
+  VIDEO: https://drive.google.com/file/d/1z6mYuGwP7aZzDODHQqziWYc99MDJbU3c/view
 
   ## Acceptance Criteria
   AS a freelance web developer
@@ -35,7 +36,7 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
   To install this project, download the files and place them in your desired folder, then open them in vs code. 
   
   ## Usage
-   Then open an intergrated terminal and type in no
+   Then open an intergrated terminal and type in node index.js
   
   ## Contributing
   undefined
